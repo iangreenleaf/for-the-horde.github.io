@@ -1,6 +1,7 @@
 ---
 layout: page
-title: For the Horde Code of Conduct
+title: Code of Conduct
+description: Code of Conduct for the FtH Community
 permalink: /code-of-conduct/
 ---
 
