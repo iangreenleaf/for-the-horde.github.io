@@ -3,6 +3,7 @@ layout: page
 title: Code of Conduct
 description: Code of Conduct for the FtH Community
 permalink: /code-of-conduct/
+image: https://i.imgur.com/5679tVw.gif
 ---
 
 Like the technical and startup community as a whole, the For the Horde Community is made up of a mixture of people from all over the North and beyond. We are coders, freelancers, designers, startup founders, and every other flavor of geek you can imagine. We are here for mentorship, help, support, to connect with people who can help us further our journey, and of course, to learn about the latest animated cat GIFs and maximize our emoji skill.
